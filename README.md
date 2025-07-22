@@ -7,7 +7,7 @@
 
 
 ## - Qual Campanha tem melhor CPL no período total
-![Pergunta_sql_2](/assets/images/pergunta_2_sql.png)
+![Pergunta_sql_2](/assets/images/pergunta_2.png)
 
 
 ## [API REST CLIMA TEMPO]([HP]%20TESTE%20TÉCNICO%20API%20TEMPO%20-%20Rodrigo%20Pereira.ipynb)
