@@ -1,6 +1,6 @@
 # desafio-tecnico
 
-## [DASHBOARD LOOKER STUDIO](https://lookerstudio.google.com/reporting/d2ff49fc-04bb-4f99-be56-8d7448025f1d)
+## [DASHBOARD LOOKER STUDIO + ANÁLISE DOS DADOS](https://lookerstudio.google.com/reporting/d2ff49fc-04bb-4f99-be56-8d7448025f1d)
 
 ## [ARQUIVO SQL COMPLETO](desafio_tecnico_SQL.sql)
 
