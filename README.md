@@ -21,4 +21,4 @@ Durante o desafio da API, eu tive dificuldade no retorno dos dados via método G
 ## [ARQUIVO CSV GERADO COM OS DADOS API](historico_tempo.csv)
 
 
-## [Arquitetura do Desafio](arquitetura_desafio.jpg)
+## ![Arquitetura do Desafio](arquitetura_desafio.jpg)
