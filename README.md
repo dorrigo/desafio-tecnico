@@ -19,3 +19,6 @@ Durante o desafio da API, eu tive dificuldade no retorno dos dados via método G
 ## [API REST CLIMA TEMPO]([HP]%20TESTE%20TÉCNICO%20API%20TEMPO%20-%20Rodrigo%20Pereira.ipynb)
 
 ## [ARQUIVO CSV GERADO COM OS DADOS API](historico_tempo.csv)
+
+
+## [Arquitetura do Desafio](arquitetura_desafio.jpg)
