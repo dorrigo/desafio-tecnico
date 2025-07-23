@@ -24,7 +24,7 @@ SELECT
 	COUNT(*) FILTER (WHERE cliques IS NULL) AS clique
 FROM base_hp;
 
--- Como se trata de métrica nula, vou substituir por zero para seguir com a análise
+-- Como se trata de métrica nula, vou substituir por zero para seguir com a análise, poderia utilizar da função COALESCE também como alternativa para substituir o NULL por um valor padrão, no caso 0.
 
 UPDATE base_hp
 SET leads = 0 
